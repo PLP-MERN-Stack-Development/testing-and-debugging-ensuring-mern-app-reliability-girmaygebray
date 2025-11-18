@@ -1,0 +1,5 @@
+Package,Purpose
+jest,Framework (likely inherited or installed here).
+@testing-library/react,Rendering and interacting with React components in tests.
+@testing-library/jest-dom,Custom Jest matchers for better DOM assertions.
+cypress or playwright,End-to-end testing (choose one).
